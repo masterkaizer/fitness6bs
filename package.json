@@ -1,0 +1,25 @@
+{
+  "name": "fitness-tracker-by-bs",
+  "version": "1.0.0",
+  "description": "This app track your fitness plan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterkaizer/Fitness-Tracker-by-BS.git"
+  },
+  "author": "Brandon J Sellam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masterkaizer/Fitness-Tracker-by-BS/issues"
+  },
+  "homepage": "https://github.com/masterkaizer/Fitness-Tracker-by-BS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16",
+    "morgan": "^1.10.0"
+  }
+}
